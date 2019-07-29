@@ -1,0 +1,46 @@
+please enter you query
+method
+Non optimized algorithm took 0.406 ms
+Optimized algorithm took : 0.337 ms
+cranfield0473
+cranfield0745
+cranfield0756
+cranfield0264
+cranfield0091
+cranfield1375
+cranfield0193
+cranfield0234
+cranfield0292
+cranfield1248
+Do you want to continue? (y/n)
+y
+please enter you query
+transfer equations
+Non optimized algorithm took 0.252 ms
+Optimized algorithm took : 0.408 ms
+cranfield0872
+cranfield1185
+cranfield1366
+cranfield0873
+cranfield0305
+cranfield0398
+cranfield0123
+cranfield0623
+cranfield0554
+cranfield0274
+Do you want to continue? (y/n)
+y
+please enter you query
+free problem case
+Non optimized algorithm took 0.225 ms
+Optimized algorithm took : 0.292 ms
+cranfield0002
+cranfield0644
+cranfield1148
+cranfield0087
+cranfield0404
+cranfield1201
+cranfield0571
+cranfield0732
+cranfield0358
+cranfield0493
